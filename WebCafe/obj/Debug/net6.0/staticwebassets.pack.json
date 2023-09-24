@@ -1,0 +1,3473 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebCafe.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebCafe.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\css\\argon-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\argon-dashboard.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\css\\argon-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\argon-dashboard.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\css\\argon-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\argon-dashboard.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\bg-profile.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-profile.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-10.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-11.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-6.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-8.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved10.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved11-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved11-small.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved11.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved12.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved13.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved19.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved21.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved5-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved5-small.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved6-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved6-small.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved7.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\curved9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved9.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\curved-images\\white-curved.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\white-curved.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\illustrations\\icon-documentation.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\icon-documentation.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\marie.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\shapes\\shape-1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-1.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\shapes\\shape-2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-2.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\shapes\\shape-3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-3.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\shapes\\wave-down.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\wave-down.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\shapes\\wave-up.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\wave-up.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\shapes\\waves-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-gray.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\small-logos\\logo-webdev.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-webdev.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\theme\\angular.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\angular.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\theme\\bootstrap.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\bootstrap.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\theme\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\dribbble.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\theme\\dropbox.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\dropbox.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\theme\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\mastercard.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\theme\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\paypal.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\theme\\react.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\react.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\theme\\sketch.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\sketch.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\theme\\slack.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\slack.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\theme\\spotify.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\spotify.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\theme\\tim.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\tim.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\theme\\unass.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\unass.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\theme\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\visa.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\theme\\vue.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\vue.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\js\\argon-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\argon-dashboard.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\js\\argon-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\argon-dashboard.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\js\\argon-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\argon-dashboard.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\js\\design-data-table.js",
+      "PackagePath": "staticwebassets\\assets\\js\\design-data-table.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_header.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\cards\\card-carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\cards\\card-carousel.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\theme.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\check_out.css",
+      "PackagePath": "staticwebassets\\css\\check_out.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\chitietsp.css",
+      "PackagePath": "staticwebassets\\css\\chitietsp.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\css_content.css",
+      "PackagePath": "staticwebassets\\css\\css_content.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\css_das.css",
+      "PackagePath": "staticwebassets\\css\\css_das.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\css_login.css",
+      "PackagePath": "staticwebassets\\css\\css_login.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\grid.css",
+      "PackagePath": "staticwebassets\\css\\grid.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\order_details.css",
+      "PackagePath": "staticwebassets\\css\\order_details.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\page-list.css",
+      "PackagePath": "staticwebassets\\css\\page-list.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\product-new.css",
+      "PackagePath": "staticwebassets\\css\\product-new.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\product-page.css",
+      "PackagePath": "staticwebassets\\css\\product-page.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\row_product.css",
+      "PackagePath": "staticwebassets\\css\\row_product.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\style-news.css",
+      "PackagePath": "staticwebassets\\css\\style-news.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\Italic.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\Italic.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\agenda.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\agenda.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\alarm-clock.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\alarm-clock.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\alert.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\alert.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\align-center.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\align-center.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\align-justify.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\align-justify.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\align-left.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\align-left.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\align-right.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\align-right.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\anchor.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\anchor.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\android.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\android.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\angle-double-down.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\angle-double-down.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\angle-double-left.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\angle-double-left.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\angle-double-right.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\angle-double-right.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\angle-double-up.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\angle-double-up.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\angle-down.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\angle-down.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\angle-left.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\angle-left.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\angle-right.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\angle-right.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\angle-up.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\angle-up.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\announcement.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\announcement.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\apple.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\apple.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\archive.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\archive.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-circle-down.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-circle-down.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-circle-left.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-circle-left.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-circle-right.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-circle-right.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-circle-up.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-circle-up.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-down.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-down.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-left.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-right.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-top-left.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-top-left.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-top-right.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-top-right.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\arrow-up.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\arrow.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\arrow.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\arrows-corner.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\arrows-corner.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\arrows-horizontal.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\arrows-horizontal.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\arrows-vertical.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\arrows-vertical.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\back-left.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\back-left.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\back-right.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\back-right.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\bag.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\bag.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\bar-chart-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\bar-chart-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\bar-chart.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\bar-chart.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\basketball.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\basketball.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\bell.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\bell.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\blackboard.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\blackboard.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\bolt-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\bolt-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\bolt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\bolt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\book.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\book.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\bookmark-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\bookmark-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\bookmark.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\bookmark.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\briefcase.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\briefcase.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\brush-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\brush-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\brush.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\brush.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\calendar.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\calendar.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\camera.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\camera.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\car.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\car.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\check-box.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\check-box.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\check.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\check.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\clip.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\clip.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\clipboard.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\clipboard.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\close.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\close.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\cloud-down.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\cloud-down.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\cloud-up.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\cloud-up.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\cloud.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\cloud.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\comment-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\comment-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\comment.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\comment.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\comments-smiley.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\comments-smiley.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\comments.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\comments.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\control-backward.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\control-backward.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\control-eject.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\control-eject.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\control-forward.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\control-forward.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\control-pause.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\control-pause.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\control-play.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\control-play.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\control-record.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\control-record.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\control-shuffle.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\control-shuffle.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\control-skip-backward.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\control-skip-backward.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\control-skip-forward.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\control-skip-forward.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\control-stop.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\control-stop.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\credit-card.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\credit-card.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\crown.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\crown.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\css3.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\css3.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\cup.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\cup.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\cut.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\cut.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\dashboard.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\dashboard.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\desktop.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\desktop.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\direction-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\direction-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\direction.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\direction.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\download.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\download.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\dribbble.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\dribbble.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\dropbox-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\dropbox-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\dropbox.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\dropbox.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\drupal.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\drupal.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\email.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\email.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\envelope.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\envelope.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\eraser.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\eraser.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\exchange-vertical.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\exchange-vertical.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\export.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\export.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\eye.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\eye.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\face-sad.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\face-sad.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\face-smile.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\face-smile.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\facebook.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\facebook.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\file.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\file.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\files.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\files.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\filter.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\filter.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\flag-alt-2.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\flag-alt-2.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\flag-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\flag-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\flag.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\flag.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\flickr-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\flickr-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\flickr.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\flickr.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\folder.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\folder.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\fullscreen.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\fullscreen.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\gallery.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\gallery.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\game.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\game.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\gift.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\gift.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\github.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\github.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\google.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\google.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\hand-drag.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\hand-drag.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\hand-open.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\hand-open.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\hand-point-down.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\hand-point-down.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\hand-point-left.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\hand-point-left.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\hand-point-right.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\hand-point-right.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\hand-point-up.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\hand-point-up.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\hand-stop.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\hand-stop.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\harddrive.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\harddrive.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\harddrives.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\harddrives.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\headphone-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\headphone-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\headphone.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\headphone.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\heart-broken.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\heart-broken.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\heart.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\heart.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\help-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\help-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\help.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\help.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\home.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\home.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\html5.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\html5.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\hummer.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\hummer.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\id-badge.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\id-badge.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\image.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\image.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\import.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\import.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\infinite.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\infinite.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\info-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\info-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\info.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\info.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\ink-pen.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\ink-pen.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\instagram.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\instagram.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\joomla.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\joomla.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\jsfiddle.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\jsfiddle.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\key.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\key.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layers-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layers-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layers.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layers.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-accordion-list.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-accordion-list.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-accordion-merged.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-accordion-merged.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-accordion-separated.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-accordion-separated.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-column2-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-column2-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-column2.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-column2.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-column3-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-column3-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-column3.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-column3.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-column4-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-column4-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-column4.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-column4.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-cta-btn-left.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-cta-btn-left.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-cta-btn-right.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-cta-btn-right.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-cta-center.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-cta-center.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-cta-left.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-cta-left.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-cta-right.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-cta-right.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-grid2-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-grid2-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-grid2-thumb.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-grid2-thumb.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-grid2.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-grid2.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-grid3-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-grid3-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-grid3.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-grid3.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-grid4-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-grid4-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-grid4.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-grid4.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-line-solid.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-line-solid.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-list-large-image.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-list-large-image.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-list-post.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-list-post.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-list-thumb-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-list-thumb-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-list-thumb.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-list-thumb.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-center-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-center-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-center.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-center.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-left-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-left-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-left.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-left.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-overlay-alt-2.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-overlay-alt-2.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-overlay-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-overlay-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-overlay.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-overlay.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-right-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-right-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-right.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-media-right.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-menu-full.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-menu-full.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-menu-separated.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-menu-separated.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-menu-v.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-menu-v.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-menu.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-menu.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-placeholder.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-placeholder.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-sidebar-2.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-sidebar-2.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-sidebar-left.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-sidebar-left.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-sidebar-none.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-sidebar-none.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-sidebar-right.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-sidebar-right.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-slider-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-slider-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-slider.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-slider.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-tab-min.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-tab-min.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-tab-v.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-tab-v.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-tab-window.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-tab-window.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-tab.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-tab.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-width-default-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-width-default-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-width-default.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-width-default.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout-width-full.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout-width-full.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\layout.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\layout.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\light-bulb.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\light-bulb.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\line-dashed.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\line-dashed.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\line-dotted.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\line-dotted.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\line-double.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\line-double.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\link.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\link.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\linkedin.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\linkedin.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\linux.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\linux.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\list-ol.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\list-ol.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\list.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\list.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\location-arrow.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\location-arrow.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\location-pin.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\location-pin.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\lock.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\lock.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\loop.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\loop.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\magnet.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\magnet.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\map-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\map-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\map.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\map.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\marker-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\marker-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\marker.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\marker.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\medall-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\medall-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\medall.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\medall.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\menu-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\menu-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\menu.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\menu.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\microphone-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\microphone-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\microphone.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\microphone.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\microsoft-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\microsoft-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\microsoft.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\microsoft.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\minus.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\minus.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\mobile.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\mobile.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\money.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\money.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\more-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\more-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\more.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\more.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\mouse-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\mouse-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\mouse.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\mouse.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\music-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\music-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\music.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\music.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\na.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\na.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\new-window.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\new-window.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\notepad.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\notepad.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\package.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\package.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\paint-bucket.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\paint-bucket.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\paint-roller.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\paint-roller.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\palette.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\palette.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\panel.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\panel.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\paragraph.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\paragraph.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\pencil-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\pencil-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\pencil-alt2.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\pencil-alt2.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\pencil.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\pencil.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\pie-chart.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\pie-chart.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\pin-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\pin-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\pin.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\pin.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\pin2.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\pin2.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\pinterest-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\pinterest-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\pinterest.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\pinterest.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\plug.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\plug.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\plus.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\plus.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\power-off.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\power-off.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\printer.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\printer.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\pulse.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\pulse.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\quote-left.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\quote-left.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\quote-right.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\quote-right.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\receipt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\receipt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\reddit.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\reddit.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\reload.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\reload.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\rocket.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\rocket.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\rss-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\rss-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\rss.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\rss.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\ruler-alt-2.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\ruler-alt-2.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\ruler-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\ruler-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\ruler-pencil.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\ruler-pencil.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\ruler.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\ruler.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\save-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\save-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\save.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\save.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\search.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\search.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\server.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\server.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\settings.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\settings.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\share-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\share-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\share.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\share.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\sharethis-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\sharethis-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\sharethis.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\sharethis.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\shield.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\shield.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\shift-left-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\shift-left-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\shift-left.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\shift-left.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\shift-right-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\shift-right-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\shift-right.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\shift-right.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\shine.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\shine.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\shopping-cart-full.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\shopping-cart-full.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\shopping-cart.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\shopping-cart.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\shortcode.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\shortcode.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\signal.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\signal.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\skype.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\skype.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\slice.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\slice.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\smallcap.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\smallcap.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\soundcloud.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\soundcloud.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\split-h.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\split-h.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\split-v-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\split-v-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\split-v.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\split-v.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\spray.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\spray.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\stack-overflow.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\stack-overflow.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\stamp.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\stamp.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\star.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\star.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\stats-down.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\stats-down.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\stats-up.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\stats-up.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\support.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\support.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\tablet.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\tablet.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\tag.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\tag.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\target.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\target.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\text.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\text.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\themify-favicon-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\themify-favicon-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\themify-favicon.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\themify-favicon.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\themify-logo.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\themify-logo.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\thought.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\thought.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\thumb-down.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\thumb-down.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\thumb-up.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\thumb-up.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\ticket.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\ticket.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\time.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\time.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\timer.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\timer.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\trash.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\trash.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\trello.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\trello.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\truck.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\truck.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\tumblr-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\tumblr-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\tumblr.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\tumblr.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\twitter-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\twitter-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\twitter.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\twitter.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\underline.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\underline.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\unlink.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\unlink.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\unlock.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\unlock.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\upload.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\upload.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\uppercase.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\uppercase.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\user.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\user.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\vector.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\vector.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\video-camera.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\video-camera.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\video-clapper.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\video-clapper.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\view-grid.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\view-grid.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\view-list-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\view-list-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\view-list.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\view-list.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\vimeo-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\vimeo-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\vimeo.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\vimeo.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\volume.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\volume.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\wallet.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\wallet.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\wand.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\wand.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\wheelchair.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\wheelchair.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\widget-alt.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\widget-alt.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\widget.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\widget.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\widgetized.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\widgetized.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\window.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\window.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\wordpress.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\wordpress.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\world.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\world.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\write.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\write.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\yahoo.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\yahoo.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\youtube.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\youtube.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\zip.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\zip.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\zoom-in.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\zoom-in.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\SVG\\zoom-out.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\SVG\\zoom-out.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\Themify IconFonts 5-23-2014.json",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\Themify IconFonts 5-23-2014.json"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\demo-files\\demo.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\ie7\\ie7.css",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\ie7\\ie7.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\ie7\\ie7.js",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\ie7\\ie7.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\index.html",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\index.html"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\readme.txt",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\readme.txt"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\font\\themify-icons-font\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\font\\themify-icons-font\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\Banner-All-product.jpg",
+      "PackagePath": "staticwebassets\\img\\Banner-All-product.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\Banner-trangtrai.jpg",
+      "PackagePath": "staticwebassets\\img\\Banner-trangtrai.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\avatarKH\\avatarKH.jpg",
+      "PackagePath": "staticwebassets\\img\\avatarKH\\avatarKH.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\cart.png",
+      "PackagePath": "staticwebassets\\img\\cart.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\category\\icon_cafe.png",
+      "PackagePath": "staticwebassets\\img\\category\\icon_cafe.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\category\\icon_cake.png",
+      "PackagePath": "staticwebassets\\img\\category\\icon_cake.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\category\\icon_cookies.png",
+      "PackagePath": "staticwebassets\\img\\category\\icon_cookies.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\category\\icon_drink.png",
+      "PackagePath": "staticwebassets\\img\\category\\icon_drink.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\category\\icon_ice_cream.png",
+      "PackagePath": "staticwebassets\\img\\category\\icon_ice_cream.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\category\\title-bg1.png",
+      "PackagePath": "staticwebassets\\img\\category\\title-bg1.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\customer\\332588135_1401964917212248_6129903015855466845_n.jpg",
+      "PackagePath": "staticwebassets\\img\\customer\\332588135_1401964917212248_6129903015855466845_n.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\customer\\Cheems.png",
+      "PackagePath": "staticwebassets\\img\\customer\\Cheems.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\customer\\chua-he-cheems_082054414.jpg",
+      "PackagePath": "staticwebassets\\img\\customer\\chua-he-cheems_082054414.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\customer\\sua-gao-1.jpg",
+      "PackagePath": "staticwebassets\\img\\customer\\sua-gao-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\img-appstore.svg",
+      "PackagePath": "staticwebassets\\img\\img-appstore.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\img-ch.svg",
+      "PackagePath": "staticwebassets\\img\\img-ch.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\logo\\fb-logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\fb-logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\logo\\ins-logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\ins-logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\logo\\twitter-logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\twitter-logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\logo\\yt-logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\yt-logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\4384ab2e84384610a68f59166a3dcddf.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\4384ab2e84384610a68f59166a3dcddf.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\BlackForest.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\BlackForest.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Ca-phe-sua-da.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Ca-phe-sua-da.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Carambar.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Carambar.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Cheesecake.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Cheesecake.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Daim.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Daim.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\De-La-Rosa-Mazapan .jpg",
+      "PackagePath": "staticwebassets\\img\\product\\De-La-Rosa-Mazapan .jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Fanta.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Fanta.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Gateau.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Gateau.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Jaffas.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Jaffas.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Katzenzungen.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Katzenzungen.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Limburg-Pie.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Limburg-Pie.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\MATCHA-DA-XAY.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\MATCHA-DA-XAY.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Mountain-Dew.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Mountain-Dew.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Mozartkugel.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Mozartkugel.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\RakovyeSheiki.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\RakovyeSheiki.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Redbull .jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Redbull .jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Sprite.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Sprite.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Thanh-phan-ly-cafe-Americano.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Thanh-phan-ly-cafe-Americano.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\Twister.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Twister.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\anh3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\anh3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\bac-xiu-la-gi.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\bac-xiu-la-gi.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\banh-bông-lan.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\banh-bông-lan.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\banh-donut.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\banh-donut.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\banh-pavlova.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\banh-pavlova.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\banh-su-kem.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\banh-su-kem.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\banh_tart.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\banh_tart.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\banhtao.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\banhtao.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\bonbonbum.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\bonbonbum.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\cach-pha-che-cafe-latte.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cach-pha-che-cafe-latte.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\cafe-chocolate-da-xay.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cafe-chocolate-da-xay.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\cafe-da-xay-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cafe-da-xay-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\cafe-mocha-nong.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cafe-mocha-nong.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\cafe-sua-nong.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cafe-sua-nong.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\cafedenlanh.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cafedenlanh.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\cafedennong.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cafedennong.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\cafengoainhap.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cafengoainhap.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\cappuccino.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cappuccino.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\celano.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\celano.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\che-bien-keo-gay-candy.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\che-bien-keo-gay-candy.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\chuoi_4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\chuoi_4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\chup-anh-sinh-to.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\chup-anh-sinh-to.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\coffee-932103_960_720.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\coffee-932103_960_720.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\cong-thuc-tra-dao-cam-sa.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cong-thuc-tra-dao-cam-sa.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\espresso-4992122_960_720.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\espresso-4992122_960_720.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\kemcom.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\kemcom.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\kemky.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\kemky.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\kemmiengdua.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\kemmiengdua.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\kemnhan.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\kemnhan.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\kemocquetrangtien.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\kemocquetrangtien.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\kemong.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\kemong.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\kemquadua.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\kemquadua.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\kemthuyta.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\kemthuyta.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\kemtui.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\kemtui.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\kemxoi.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\kemxoi.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\keo-cao-su-ca-menthol-eucalyptus-vi-4-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\keo-cao-su-ca-menthol-eucalyptus-vi-4-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\keo-dua.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\keo-dua.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\keo-gao.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\keo-gao.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\keoraurong.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\keoraurong.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\keosaurieng.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\keosaurieng.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\ly-tra-sua.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\ly-tra-sua.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\macarons.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\macarons.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\menu-quan-cafe-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\menu-quan-cafe-10.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\merino.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\merino.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\mirinda.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\mirinda.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\mochi.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\mochi.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\monster-energy.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\monster-energy.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\monterasa.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\monterasa.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\nestle.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\nestle.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\nuoc-ep.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\nuoc-ep.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\nuoc-giai-khat-pepsi-lon-cao-320ml-20221212.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\nuoc-giai-khat-pepsi-lon-cao-320ml-20221212.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\oreo-1.png",
+      "PackagePath": "staticwebassets\\img\\product\\oreo-1.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\salmiakki1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\salmiakki1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\sua-gao-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sua-gao-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\tiramisu.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\tiramisu.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\product\\vinamilk.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\vinamilk.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\slide\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\slide\\a.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\slide\\bg_banner.jpg",
+      "PackagePath": "staticwebassets\\img\\slide\\bg_banner.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\slide\\slide1.jpg",
+      "PackagePath": "staticwebassets\\img\\slide\\slide1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\slide\\slide2.jpg",
+      "PackagePath": "staticwebassets\\img\\slide\\slide2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\slide\\slide3.jpg",
+      "PackagePath": "staticwebassets\\img\\slide\\slide3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\slide\\slide4.jpg",
+      "PackagePath": "staticwebassets\\img\\slide\\slide4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\slide\\slide5.jpg",
+      "PackagePath": "staticwebassets\\img\\slide\\slide5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\tintuc\\21deb0f6-08c7-460b-a6d3-4a01b9861f60.jpg",
+      "PackagePath": "staticwebassets\\img\\tintuc\\21deb0f6-08c7-460b-a6d3-4a01b9861f60.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\tintuc\\3357773c-c708-4ea1-99df-e58bc4aac885.jpg",
+      "PackagePath": "staticwebassets\\img\\tintuc\\3357773c-c708-4ea1-99df-e58bc4aac885.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\tintuc\\7a6e9d4e-005d-4a11-ad59-65d39d6e085c.jpg",
+      "PackagePath": "staticwebassets\\img\\tintuc\\7a6e9d4e-005d-4a11-ad59-65d39d6e085c.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\tintuc\\859a56c6-cefa-4a21-ac73-3f6ba6c47d4e.jpg",
+      "PackagePath": "staticwebassets\\img\\tintuc\\859a56c6-cefa-4a21-ac73-3f6ba6c47d4e.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\tintuc\\bbf8c05d-138f-413b-871b-98c473e25bdf.png",
+      "PackagePath": "staticwebassets\\img\\tintuc\\bbf8c05d-138f-413b-871b-98c473e25bdf.png"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\tintuc\\img-pc1.jpg",
+      "PackagePath": "staticwebassets\\img\\tintuc\\img-pc1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\tintuc\\img-qc2.jpg",
+      "PackagePath": "staticwebassets\\img\\tintuc\\img-qc2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\tintuc\\img-qc3.jpg",
+      "PackagePath": "staticwebassets\\img\\tintuc\\img-qc3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\tintuc\\img-qc4.jpg",
+      "PackagePath": "staticwebassets\\img\\tintuc\\img-qc4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\tintuc\\tin1.jpg",
+      "PackagePath": "staticwebassets\\img\\tintuc\\tin1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\tintuc\\tin2.jpg",
+      "PackagePath": "staticwebassets\\img\\tintuc\\tin2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\img\\tintuc\\tin3.jpg",
+      "PackagePath": "staticwebassets\\img\\tintuc\\tin3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\js\\Alert_Them_Sua_Xoa_ThatBai.js",
+      "PackagePath": "staticwebassets\\js\\Alert_Them_Sua_Xoa_ThatBai.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\js\\active.js",
+      "PackagePath": "staticwebassets\\js\\active.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\js\\datatables-bt5.js",
+      "PackagePath": "staticwebassets\\js\\datatables-bt5.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\js\\jquery\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\js\\map-active.js",
+      "PackagePath": "staticwebassets\\js\\map-active.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\js\\slider-product.js",
+      "PackagePath": "staticwebassets\\js\\slider-product.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\js\\slides.js",
+      "PackagePath": "staticwebassets\\js\\slides.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.1.3-dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET_Core_WebCafe\\WebCafe\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebCafe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebCafe.props",
+      "PackagePath": "build\\WebCafe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebCafe.props",
+      "PackagePath": "buildMultiTargeting\\WebCafe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebCafe.props",
+      "PackagePath": "buildTransitive\\WebCafe.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
